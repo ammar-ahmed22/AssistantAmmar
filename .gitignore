@@ -1,2 +1,3 @@
 sayings.txt
-config.env
+.env
+temp/
